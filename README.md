@@ -19,4 +19,4 @@ A simple console warehouse management application written in C#.
 
 ## Author
 
-Piotr Lewinski
+Pieta02
